@@ -32,8 +32,10 @@ Use `java-google-style.xml` file in docs folder to set as Checkstyle configurati
 
 ### IntelliJ
 
-To add GoogleStyle formatting in IntelliJ go to `Preferences -> Editor - Code Style -> Java`. From Schema `Import Schema` and select file `docs/java-google-style.xml`
-Once added, you now be able to Reformat Code using GoogleStyle, which can be triggered from the Code menu or with the Ctrl-Alt-L (by default) keyboard shortcut.
+1. Go to `Preferences -> Editor -> Code Style -> Java`.
+2. From the Schema menu, select **Import Schema** and choose `docs/java-google-style.xml`.
+3. Once added, you will be able to reformat code using GoogleStyle.  
+   This can be triggered from the **Code** menu or with the `Ctrl + Alt + L` shortcut (default).
 
 ## Useful links
 
