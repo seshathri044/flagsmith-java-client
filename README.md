@@ -35,7 +35,7 @@ Use `java-google-style.xml` file in docs folder to set as Checkstyle configurati
 1. Go to `Preferences -> Editor -> Code Style -> Java`.
 2. From the Schema menu, select **Import Schema** and choose `docs/java-google-style.xml`.
 3. Once added, you will be able to reformat code using GoogleStyle.  
-   This can be triggered from the **Code** menu or with the `Ctrl + Alt + L` shortcut (default).
+This can be triggered from the **Code** menu or with the `Ctrl + Alt + L` shortcut (default).
 
 ## Useful links
 
