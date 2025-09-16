@@ -26,12 +26,10 @@ If you have any questions about our projects you can email <a href="mailto:suppo
 We are using Google Java Style for code formatting. To install one see instructions bellow
 
 ### VS Code
-
 1. Install extension [Checkstyle for Java](https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-checkstyle).  
 2. Use the `java-google-style.xml` file in the `docs` folder as the Checkstyle configuration file.  
 
 ### IntelliJ
-
 1. Go to `Preferences -> Editor -> Code Style -> Java`.  
 2. From the Schema menu, select **Import Schema** and choose `docs/java-google-style.xml`.  
 3. Once added, you will be able to reformat code using GoogleStyle.  
